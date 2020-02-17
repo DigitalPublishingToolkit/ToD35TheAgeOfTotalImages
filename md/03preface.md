@@ -1,25 +1,21 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: The Age of Total Images: Disappearance of a Subjective Viewpoint in Post-digital Photography
+P-id: Theory on Demand
+A-id: 35
 Type: article
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 03
+Article-title: preface
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Author: Ana Peraica
 Rights: CC BY-NC 4.0
 ...
 
 
 # Preface
 
-> *This appropriating mirror-play of the simple onefold of earth and
+> This appropriating mirror-play of the simple onefold of earth and
 > sky, divinities and mortals, we call the world. The world presences by
 > worlding. That means: the world's worlding cannot be explained by
 > anything else nor can it be fathomed through anything else. This
@@ -28,8 +24,8 @@ Rights: CC BY-NC 4.0
 > unfathomable character of the world's worlding lies in this, that
 > causes and grounds remain unsuitable for the world's worlding. As soon
 > as human cognition here calls for an explanation, it fails to
-> transcend the world's nature, and fells short of it. (Martin
-> Heidegger, The Thing).*[^1]
+> transcend the world's nature, and fells short of it.
+> - Martin Heidegger, 'The Thing'.[^pref_1]
 
 I came to realize this book unexpectedly. In 2018, during the process of
 analyzing the historical and technological development of post-digital
@@ -46,7 +42,6 @@ is written in the domain of media epistemology and, therefore, in media
 ontology as well. That is, I describe the space of existence separate
 from a mediated space, and that theory will come back several times and
 twist around various topics in this book too.
-[]{#__RefHeading___Toc76884_3983396227 .anchor}
 
 During the preparation of this manuscript, I had no access to funding or
 research facilities because I am not a tenured scholar. Consequently, it
@@ -80,6 +75,6 @@ organized over the last few years as I was working on this book and
 living among the noise produced by over-tourism of Diocletian’s palace
 in Split, Croatia.
 
-[^1]: Martin Heidegger, ‘The Thing’ in Martin Heidegger, trans. Albert
-    Hofstadter, *Poetry, Language, Thought*, New York: Harper & Row,
+[^pref_1]: Martin Heidegger, ‘The Thing’ in Martin Heidegger, trans. Albert
+    Hofstadter, *Poetry, Language, Thought*, New York: Harper and Row,
     1971, 177.

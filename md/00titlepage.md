@@ -1,14 +1,14 @@
 ---
-Pr-id: The
+Pr-id: The Age of Total Images: Disappearance of a Subjective Viewpoint in Post-digital Photography
 P-id: Theory on Demand
-A-id: 32
+A-id: 35
 Type: article
 Book-type: anthology
 Anthology item: article
-Item-id: 02
+Item-id: 01
 Article-title: colophon
 Article-status: accepted
-Author: Sabine Niederer
+Author: Ana Peraica
 Rights: CC BY-NC 4.0
 ...
 

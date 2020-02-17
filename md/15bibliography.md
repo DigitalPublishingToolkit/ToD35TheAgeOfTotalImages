@@ -1,29 +1,23 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: The Age of Total Images: Disappearance of a Subjective Viewpoint in Post-digital Photography
+P-id: Theory on Demand
+A-id: 35
 Type: article
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 15
+Article-title: bibliography
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Author: Ana Peraica
 Rights: CC BY-NC 4.0
 ...
 
 
 # Bibliography
 
-## 
-
 ## Books and Articles
 
-Abbott Abbott, Edwin. *Flatland: A Romance of Many Dimension*s, pref.
+Abbott Abbott, Edwin. *Flatland: A Romance of Many Dimensions*, pref.
 Thomas Banchoff, New York and Dover: Princeton University Press, 1993.
 
 Ades, Dawn. *Photomontage*, London: Thames and Hudson, 1976.
@@ -677,7 +671,7 @@ in Relationship to Artistic and Scientific Revolutions Fractals* 3.3
 Shuttleworth, Kaleb. *Planet or Plane?: A Debate of the 'Flat-Earth'
 Hypothesis*, unknown publisher, 2018.
 
-1.  Sloterdijk, Peter. *Spheres, volume 2, Globes: Macrospherology***,**
+Sloterdijk, Peter. *Spheres, volume 2, Globes: Macrospherology***,**
     South Pasadena: Semiotext(e), 2014.
 
 Sloterdijk, Peter. *Terror from the Air,* Los Angeles: Semiotext(e),
@@ -783,16 +777,16 @@ Zylinska, Joanna. *Nonhuman Photography*, Cambridge, MA: MIT Press,
 
 ## Exhibitions
 
-‘Movable borders. Here comes Drones’, Furtherfield Gallery, London,
+‘Movable borders: Here comes Drones’, Furtherfield Gallery, London,
 11–26 May 2013,
 http://www.furtherfield.org/programmes/exhibition/movable-borders-here-come-drones.
 
-‘Once is Nothing, Drone Art Exhibition’, Interacess, 17 February–2 April
+‘Once is Nothing: Drone Art Exhibition’, Interacess, 17 February–2 April
 2016,
 http://interaccess.org/exhibition/once-nothing-drone-art-exhibition.
 
 ‘The Sky Is Also a Map’,
-<http://interaccess.org/exhibition/sky-also-map>.
+http://interaccess.org/exhibition/sky-also-map.
 
 ‘Ctrl+Space: Rhetorics of Surveillance from Bentham to Big Brother’,
 ZKM, Karlsruhe, 2001, http://ctrlspace.zkm.de/e/.

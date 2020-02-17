@@ -1,23 +1,19 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: The Age of Total Images: Disappearance of a Subjective Viewpoint in Post-digital Photography
+P-id: Theory on Demand
+A-id: 35
 Type: article
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 14
+Article-title: conclusion
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Author: Ana Peraica
 Rights: CC BY-NC 4.0
 ...
 
 
-# Conclusion: So, the Earth is flat…?
+# Conclusion: So, the Earth Is Flat…?
 
 ## Assembled Perspective
 
@@ -25,9 +21,9 @@ Our ideas about the Earth, and about both our space and place in
 relation to the world, changed with the innovation and introduction of
 each new imaging technology, from the map and landscape, to various
 globes, to today’s post-digital photography. Starting with the
-balloon-mounted photographic apparatus in the 19^th^ century, and
-continuing with air, drone, and satellite imaging in the 20^th^ and
-21^st^ centuries, post-digital photographs of our home planet, like
+balloon-mounted photographic apparatus in the 19th century, and
+continuing with air, drone, and satellite imaging in the 20th and
+21st centuries, post-digital photographs of our home planet, like
 those which constitute Google Earth or virtual globes, are not captured
 but rather assembled. By the time they reach our eyes, these images have
 been adjusted, with the density, opacity, saturation, and transparency
@@ -61,7 +57,7 @@ The quantity and kind of information which is contained in any
 post-digital photograph of the Earth makes it impossible to see this
 total image all at once. As James Bridle rightly notes, ‘The aggregation
 of complex systems in contemporary networked applications means that no
-single person ever sees the whole picture’.[^1] Thus, despite the sheer
+single person ever sees the whole picture’.[^concl_1] Thus, despite the sheer
 volume of total images which exist in the post-digital age, when
 compared and contrasted to the pictures of the planet in Antiquity and
 the Medieval Period, we are actually losing any totalizing view or
@@ -73,11 +69,11 @@ broken vase, that has pieces lost or missing, and having no idea of what
 the object actually looks like, also no possibility for piecing it
 together. As Fredric Jameson argues, this almost
 schizophrenic *decentering* and *dispersion* of the subjective view also
-brings alienation.[^2] And such a growing inability and incapacity to
+brings alienation.[^concl_2] And such a growing inability and incapacity to
 locate for ourselves a place in the world plays an important part in the
 burgeoning systematic failure of a globalized society to preserve
 culture, heritage, and personhood between all its differences and
-diversity.[^3]
+diversity.[^concl_3]
 
 ## Assembled World 
 
@@ -86,7 +82,7 @@ world appears sequenced, as it is visually indeed assembled, more over
 it appears overly close, so no distance needed in order to construct a
 perception is possible. This fractioned appearance reintroduced along
 with the total image is a concept of absolute space and New Medievalism,
-elaborated in the Introduction and Chapter 8.[^4] The theory of
+elaborated in the Introduction and Chapter 8.[^concl_4] The theory of
 assemblage is often used to analyze perspective and space in the various
 forms of images from the Medieval Period, Modernity, and their
 combination in the post-digital age. Yet, in addition to being applied
@@ -94,10 +90,10 @@ by philosophers in their analysis of more general, cultural. patterns,
 assemblage logic has many variants when applied to media: from bricolage
 to collage and from photomontage to filmic montage. Gilles Deleuze and
 Félix Guattari, followed by Manuel deLanda and Saskia Sassen, have
-theorized on assemblage in a wider context.[^5] Following Deleuze and
+theorized on assemblage in a wider context.[^concl_5] Following Deleuze and
 Guattari’s famous theorizing on assemblage, deLanda introduced the model
 of an ‘abstract machine’, which he applied in his theory of society and
-which, in turn, Sassen applied to practical concepts.[^6] With these
+which, in turn, Sassen applied to practical concepts.[^concl_6] With these
 analyses, the focus of contemporary theories of assemblage have shifted
 from material and medial processes in visual culture to a political and
 social perspectives. These social theories of assemblage are now being
@@ -105,12 +101,14 @@ practically applied in the analysis of the hybrid geographies which
 combine maps with photographs. Here, concepts such as
 ‘territorialization’ and ‘deterritorialization’ refer to the degree of
 indexicality between the total image and the reality which is being
-represented.[^7]
+represented.[^concl_7]
 
 ## The Loss of the Common World 
 
-[[]{#_Toc32255891 .anchor}]{#_Toc31046563 .anchor}Figure 27: We have
-never been to Moon, street poster (Internet meme)
+![](imgs/img27.jpg)
+
+Figure 27: *We Have
+Never Been to the Moon*, street poster and internet meme.
 
 In the real world, such processes of fragmentation also are progressing.
 For example, more and more countries are withdrawing from international
@@ -121,20 +119,20 @@ same time we have never lived in time having more total consequences.
 While the whole Earth and people all over the world are impacted by
 climate change and the climate crisis, not everyone shares the total
 view of the planet. As Timothy Clark writes, ‘No-one sees the Earth
-globally and no-one sees an ecological system from nowhere’.[^8] Indeed,
+globally and no-one sees an ecological system from nowhere’.[^concl_8] Indeed,
 even the governments and corporations in both larger or smaller nations
 which occupy a particular territory behave as if they are isolated
 rather than connected to the whole. But whatever fate is made by the
 human species will be the grand master narrative produced, claims Clive
-Hamilton.[^9] None will be spared. At least regarding global warming, as
-Hamilton writes, ‘there are no more enclaves’.[^10] Enclaves,
+Hamilton.[^concl_9] None will be spared. At least regarding global warming, as
+Hamilton writes, ‘there are no more enclaves’.[^concl_10] Enclaves,
 uncontaminated by the virus that is the confidence of one group in their
 own dominion over another group, will vanish. And if the difference and
 diversity in humanity is further dispersed and distributed, then this
 will be at least in part due to the seduction of a total image of the
 world, an image which does not provide a real picture of how things are,
 but an image which we construct according to our own attitudes, beliefs,
-and desires.[^11]
+and desires.[^concl_11]
 
 ## Loss of Place 
 
@@ -172,7 +170,7 @@ communication technologies, even the very idea of the space as existing
 from a departure to an arrival point has all but disappeared. Paul
 Virilio thus observed that here ‘depth no longer includes the visual
 horizon, nor the vanishing point of perspective’, but rather speed
-becomes the most essential and important dimension.[^12]
+becomes the most essential and important dimension.[^concl_12]
 
 Time is essential element in our perception of the world which is in
 front of us. Our eyes move to analyze the space, not only in terms
@@ -187,7 +185,7 @@ hypothetically, one could travel around it endlessly, thereby
 introducing not only the idea of the finiteness of the planet but also
 the finiteness of the view. And again, according to Virilio, the speed
 and acceleration towards instantness have destroyed fixity of both the
-space and its visualizations.[^13] In addition they have set the place
+space and its visualizations.[^concl_13] In addition they have set the place
 in motion, so it is impossible to capture it. It is not that our
 four-dimensional world, with its three dimensions of space (height,
 width, depth), as well as the temporal dimension, is thereby fixed or
@@ -204,7 +202,7 @@ understood in Western culture and thought for the past five hundred
 years, is disappearing right before our very eyes.
 
 As such, the total image is at once convincing and dangerous. Jean
-Baudrillard was right: with the image, reality disappears.[^14] Instead,
+Baudrillard was right: with the image, reality disappears.[^concl_14] Instead,
 indexicality in the total image is merely a realistic effect or style
 which is applied to the image by the layering of photographs. Through
 the computational processes of artificial intelligence which combine
@@ -215,7 +213,7 @@ realism of photography is being merged with the data systems of mapping.
 In post-digital photography, the connection between the image and its
 reference, such as between Google Earth and the Earth itself, is based
 more on indirect resemblance than direct relation, as has already been
-suggested by Baudrillard.[^15] By confusing the chain of custody for
+suggested by Baudrillard.[^concl_15] By confusing the chain of custody for
 photographic evidence from firsthand witnesses, human or machine, its
 credibility in relation to space becomes lost. Thus, indexicality in the
 total image no longer serves as proof to the viewer that the something
@@ -224,7 +222,7 @@ of indexicality in photography.
 
 And it only because of this effect, as Allen Carlson notes, that we are
 ‘picturing and perceiving nature as if it were a landscape painting, as
-a grandiose project seen from a specific standpoint and distance’.[^16]
+a grandiose project seen from a specific standpoint and distance’.[^concl_16]
 Photographic realism is just one element in the total image. As I have
 described across the proceeding chapters, in many if not most instances,
 photographs become just one layer of material out of many within a
@@ -255,7 +253,7 @@ become completely un-checkable, leading even to the production of
 landscapes which have no relation to reality at all. As Trevor Paglen
 addresses the issue, ‘As “landscape” in art has moved far outside the
 frames of painting and photography, a lot of artists are turning towards
-geography for methodological and analytic inspiration’.[^17] Today the
+geography for methodological and analytic inspiration’.[^concl_17] Today the
 landscape exists no longer as an object but as something abject. Rather,
 our relationship to these new datascapes, at least in terms of
 cognition, is projective. That is, this landscape itself is a projection
@@ -269,13 +267,13 @@ believe are proof that the surface of the planet is flat, in the
 post-digital age the total image serves not only to explain our habitat,
 but to falsely stabilize its ever dynamic and shifting qualities.
 
-[^1]: []{#__RefHeading___Toc77658_3983396227 .anchor} Bridle, *New Dark
+[^concl_1]: Bridle, *New Dark
     Age*, 40.
 
-[^2]: Fredric Jameson, *Postmodernism, or, the Cultural Logic of Late
+[^concl_2]: Fredric Jameson, *Postmodernism, or, the Cultural Logic of Late
     Capitalism*, Durham: Duke University Press, 1991*,* 413.
 
-[^3]: Many places on the Earth are being erased from maps. According the
+[^concl_3]: Many places on the Earth are being erased from maps. According the
     artwork of Columbian-born American filmmaker Maurizio Arango, being
     part of the project *Victims Symptom* I have curated which only used
     few concepts of victimology to show how the number of victims is
@@ -285,10 +283,10 @@ but to falsely stabilize its ever dynamic and shifting qualities.
     *Victims Symptom: PTSD and Culture*, Amsterdam: Institute of Network
     Cultures, 2009.
 
-[^4]: []{#__RefHeading___Toc77518_3983396227 .anchor} Grau, *Virtual
+[^concl_4]: Grau, *Virtual
     Art*.
 
-[^5]: []{#__RefHeading___Toc77492_3983396227 .anchor} Deleuze and
+[^concl_5]: Deleuze and
     Guattari analyze assemblage in territorial, statist, capitalist and
     nomadic layer, as well as their amalgams, in a constant change of
     predicate logic functions. deLanda furthermore is defining parts of
@@ -298,31 +296,30 @@ but to falsely stabilize its ever dynamic and shifting qualities.
     Princeton, NJ: Princeton University Press, 2008; deLanda,
     *Assemblage Theory. *
 
-[^6]: []{#__RefHeading___Toc77488_3983396227 .anchor} deLanda,
-    *Assemblage Theory*; Sassen, *Territory Authority, Rights.*
+[^concl_6]: deLanda, *Assemblage Theory*; Sassen, *Territory Authority, Rights.*
 
-[^7]: Throughout *Anti-Oedipus*, Deleuze and Guattari analyze various
+[^concl_7]: Throughout *Anti-Oedipus*, Deleuze and Guattari analyze various
     types of deteritorialization, from relative to absolute. See: Gilles
     Deleuze and Felix Guattari, *Anti-Oedipus: Capitalism and
     Schizophrenia*, Minneapolis: University of Minnesota Press, 1984,
     130-149 and 192-200.
 
-[^8]: Timothy Clark, *Ecocriticism on the Edge: The Anthropocene as a
+[^concl_8]: Timothy Clark, *Ecocriticism on the Edge: The Anthropocene as a
     Threshold Concept*, New York: Bloomsbury, 2015, 18.
 
-[^9]: []{#__RefHeading___Toc77476_3983396227 .anchor} Clive Hamilton,
+[^concl_9]: Clive Hamilton,
     *Defiant Earth: The Fate of Humans in the Anthropocene,* New Zealand
     and Australia: Allen and Unwin, 2017, Chapter 3, unpaginated.
 
-[^10]: Hamilton, *Defiant Earth,* Chapter 2, unpaginated.
+[^concl_10]: Hamilton, *Defiant Earth,* Chapter 2, unpaginated.
 
-[^11]: Hamilton, *Defiant Earth*, 54.
+[^concl_11]: Hamilton, *Defiant Earth*, 54.
 
-[^12]: Virilio, *Lost Dimension,* 66*.*
+[^concl_12]: Virilio, *Lost Dimension,* 66*.*
 
-[^13]: Virilio, *Lost Dimension*, 140.
+[^concl_13]: Virilio, *Lost Dimension*, 140.
 
-[^14]: He writes: ‘This is also true of geographic and spatial
+[^concl_14]: He writes: ‘This is also true of geographic and spatial
     exploration: when there is no longer any virgin territory, and thus
     one available to the imaginary, *when the map covers the whole
     territory, something like the principle of reality disappears*.’
@@ -330,13 +327,13 @@ but to falsely stabilize its ever dynamic and shifting qualities.
     (trans.), Ann Arbor, Minnesota: University of Michigan Press, 1994,
     123.
 
-[^15]: []{#__RefHeading___Toc77662_3983396227 .anchor} Jean Baudrillard,
+[^concl_15]: Jean Baudrillard,
     *The Evil Demon of Images*, Sydney: The Power Institute of Fine
     Arts, 1987.
 
-[^16]: []{#__RefHeading___Toc77508_3983396227 .anchor} Allen Carlson,
+[^concl_16]: Allen Carlson,
     ‘Appropriation of the Nature Environment’, in Alex Neil and Aaron
     Ridley (eds), *Arguing about Art, Contemporary Philosophical
     debates*, London: Routledge, 155-166.
 
-[^17]: #  Michael Dear, ‘An Interview with Trevor Paglen’, in *GeoHumanities: Art, History, Text at the Edge of Place*, Michael Dear, Jim Ketchum, Sarah Luria, Doug Richardson. Routledge, 2011, 24.
+[^concl_17]: Michael Dear, ‘An Interview with Trevor Paglen’, in *GeoHumanities: Art, History, Text at the Edge of Place*, Michael Dear, Jim Ketchum, Sarah Luria, Doug Richardson. Routledge, 2011, 24.

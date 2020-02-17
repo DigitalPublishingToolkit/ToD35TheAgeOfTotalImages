@@ -1,18 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: The Age of Total Images: Disappearance of a Subjective Viewpoint in Post-digital Photography
+P-id: Theory on Demand
+A-id: 35
 Type: article
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 03
+Article-title: preface
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Author: Ana Peraica
 Rights: CC BY-NC 4.0
 ...
 
@@ -21,16 +17,17 @@ Rights: CC BY-NC 4.0
 
 > The crisis of physical dimensions, just as a crisis of measurement, is
 > tied up with the crisis of determinism and affects today the whole
-> ensemble of representations of the world. (Paul Virilio, Lost
-> Dimension)[^1]
+> ensemble of representations of the world. - Paul Virilio, *The Lost
+> Dimension*.[^intro_1]
 
-## Planet Earth as a Filmic character 
+## Planet Earth as a Filmic Character 
 
-[[]{#_Toc32255865 .anchor}]{#_Toc30760351 .anchor}Figure 1: Astronaut in
-Space (royalty free – Creative Commons Zero - CC0, Pxsfuel.
+![](imgs/img01.jpg)
+
+Figure 1: Astronaut in Space.
 
 In the blockbuster film *Gravity* (2013), the actress Sandra Bullock
-plays an astronaut who is lost in space.[^2] Constantly throughout the
+plays an astronaut who is lost in space.[^intro_2] Constantly throughout the
 film, the viewer sees the planet Earth behind her back. These images, we
 learn from the film description, were taken from NASA and Roscosmos, the
 American and Russian space agencies, respectively, chosen for their
@@ -49,7 +46,7 @@ appears so close and yet so far away.
 
 Our home planet has been a character in other movies as well. For
 example, in *The Great Dictator* (1940), Charlie Chaplin plays with the
-globe as if being a ball.[^3] Comparing the filmmakers’ approaches to
+globe as if being a ball.[^intro_3] Comparing the filmmakers’ approaches to
 the two films, the contrasts do not end at the level of filmic genre,
 with one film being a work of science fiction, and the other one of
 comedy. There are also significant differences in how the planet is
@@ -69,8 +66,10 @@ two films we can also differentiate two epistemic relations to our
 knowledge about the Earth, one based on the authority of science, and
 the other based on everyday lived experience.
 
-[[]{#_Toc32255866 .anchor}]{#_Toc30760352 .anchor}Figure 2 - Still from
-Charlie Chaplin, The Great Dictator, 1940 (the work in the public space)
+
+![](imgs/img02.jpg)
+
+Figure 2: Still from *The Great Dictator* (dir. Charlie Chaplin).
 
 It is often taken for granted that in photography ‘seeing is believing’.
 But there are differences in the ways in which we assign truth and trust
@@ -86,7 +85,7 @@ vision. Moreover, given the ‘light time delay’, or the delay which is
 caused by the time it takes for light to travel from a celestial object
 in outer space to the Earth, a telescope does not provide an image of
 the world which currently exists, but rather one which is already
-long-vanished.[^4] Thus, even when using a telescope while in the employ
+long-vanished.[^intro_4] Thus, even when using a telescope while in the employ
 of science, we can only capture an illusion of existence.
 
 Although it is not as problematic to try to see the Earth from space as
@@ -120,8 +119,8 @@ human experience. Whereas most conventional photography is used to
 record what may be naturally perceived, an ever-increasing segment of
 photographic practices focus on what may be recorded through a complex
 assemblage of machinic and computational processes. This development was
-already began in the 19^th^ century with the merging of optical and
-photographic technologies. It sped up in the 20^th^ century as the power
+already began in the 19th century with the merging of optical and
+photographic technologies. It sped up in the 20th century as the power
 of lenses enhanced not only distant recordings of celestial bodies from
 space and ground telescopes but also recording of the Earth from outer
 space. In parallel, innovations in lens technology have amplified our
@@ -131,7 +130,7 @@ astronomic level. The clash between these two completely different
 strata of universe, the micro and macro, both of which are beyond the
 capacity of the human gaze, were recorded in the movie *Powers of Ten
 and the Relative Size of Things in the Universe* (1977) by Charles
-Ormond Eames, Jr. and Bernice Alexandra ‘Ray’ Kaiser Eames.[^5]
+Ormond Eames, Jr. and Bernice Alexandra ‘Ray’ Kaiser Eames.[^intro_5]
 Anticipating deep photography in video form, this short movie has had
 many reinterpretations and reiterations in the past half century. The
 Eames husband and wife industrial design team employed a system of
@@ -143,9 +142,9 @@ constellation. Such a view, which was based on the available scientific
 knowledge of the day, has further evolved in subsequent decades. Today,
 the power of a lens has grown to such an extent, as with the Event
 Horizon Telescope (EHT), that lens technology has made possible the
-recording of a black hole 55 million light years away.[^6] And at the
+recording of a black hole 55 million light years away.[^intro_6] And at the
 same time, photographic apparatuses can now be used to record the
-tiniest of details, down to even an atom’s shadow.[^7]
+tiniest of details, down to even an atom’s shadow.[^intro_7]
 
 What such a view affords is an image which, even though it still is
 indexical, does not seem to be representational, but rather abstract.
@@ -170,7 +169,7 @@ supported vision: The human view is at once both selective and dynamic;
 that is, humans cannot simultaneously see details and the whole. Given
 the many biological, cognitive, and neurobiological factors involved in
 human vision, such as attention, focus, interpretation, and memory,
-there is great variability in what we see and how we see it.[^8] Such
+there is great variability in what we see and how we see it.[^intro_8] Such
 variability would be considered errors or glitches in machine vision,
 would be considered unacceptable, and would be corrected during the
 stages of design and implementation. This difference between naked human
@@ -193,7 +192,7 @@ a number of image together through computational or pre-computational
 processes and practices; and by layering other kinds of information over
 the original photographic record. Through these techniques, any
 subjective point or angle of view is dismissed, replaced by a
-more-than-human view.[^9] The view in such a image is not described by
+more-than-human view.[^intro_9] The view in such a image is not described by
 the position of the author of the image. Rather, the view is dispersed
 uniformly throughout the space of the image and activated by the
 navigation of the user.
@@ -204,33 +203,33 @@ propose a concept of ‘the total image’. The notion of such an image has
 already been employed by Ingrid Hoelzl and Remi Marie to describe the
 unique effects of Google Street View, which to date marks the furthest
 step taken in the totalization of cartographic or geographic
-imagery.[^10] Expanding on their definition in this book, I use the term
+imagery.[^intro_10] Expanding on their definition in this book, I use the term
 total image to mean any and all images which are liberated from the
 constraints of naked human vision and, particularly, the angle of view
 (AoV) or ‘view-angle,’ sometimes called the field of view (FoV), which
 is the extent of a given scene which can be imaged. A total image,
 therefore, is the result of a long process of research and development
 in image technologies in order to extend human vision to the point of
-being able to see the whole of our world all at once.[^11]
+being able to see the whole of our world all at once.[^intro_11]
 
 Only a few theoreticians have described the various levels of such total
 images. For example, Christine Buci-Glucksmann defines the view from
-above via the narrative on Icarus, referring to an ‘Icarian gaze’.[^12]
+above via the narrative on Icarus, referring to an ‘Icarian gaze’.[^intro_12]
 Icarus, son of Daedalus, fashioned a pair of wings from feathers and
 wax, but flew too close to the sun, until the wings melted and he fell
 to his death in the sea. This Icarian gaze ‘opposes the vision dependent
 on heaviness and its constraints - horizons, orientations between the
-above and below - with a “being in trajectory”’.[^13] The early aerial
+above and below - with a “being in trajectory”’.[^intro_13] The early aerial
 views, whether the view from the top of the hill to the view from low
 altitude flight, the low or the high oblique, is best described by *Ola
-Söderström* concept of the ‘zenithal gaze’.[^14] In order to describe
+Söderström* concept of the ‘zenithal gaze’.[^intro_14] In order to describe
 the view of the surface of the Earth as seen from space, such as during
 the Apollo space missions, Denis Cosgrove referred to an ‘Apollonian
-view’.[^15] Views which simulate this view from high up above, like in a
+view’.[^intro_15] Views which simulate this view from high up above, like in a
 map, Claire Reddleman defines as ‘the view from nowhere’, ‘a highly
 abstract viewpoint \[which\] is the signature viewpoint of modern
-cartography’.[^16] Also regarding maps, Alberto Toscano and Jeff Kinkle
-elaborate on ‘cartographies of the absolute’.[^17] Irmgard Emmelhainz
+cartography’.[^intro_16] Also regarding maps, Alberto Toscano and Jeff Kinkle
+elaborate on ‘cartographies of the absolute’.[^intro_17] Irmgard Emmelhainz
 also writes about a groundless view, which diverges point of view and
 synthetic image, describing them as tautological or self-referential.
 
@@ -243,17 +242,17 @@ those astronauts who have journeyed beyond the boundaries of our home
 planet. Yet, such images have a bigger purpose, inspiring us to imagine
 more things than in heaven and Earth than we have dreamt in our
 philosophy, and transcend the ‘human condition’, as Hannah Arendt once
-called it in her comments about the Sputnik mission.[^18] Arendt notes:
+called it in her comments about the Sputnik mission.[^intro_18] Arendt notes:
 
 > The most radical change in the human condition we can imagine would be
 > an emigration of men from the earth to some other planet. Such an
 > event, no longer totally impossible, would imply that man would have
 > to live under man-made conditions, radically different from those the
-> earth offers him.[^19]
+> earth offers him.[^intro_19]
 
 Yet with photographic record of such a view it is not only human but
 also a ‘human photographic condition’, as a specific limited view-frame
-of humans, that is changed, to paraphrase Joanna Zylinska.[^20] Human
+of humans, that is changed, to paraphrase Joanna Zylinska.[^intro_20] Human
 photographic condition is the one tied to human natural way of living,
 perspectival ground views, the cut-out of the view-frame, contrary to a
 full-round, 360-degree vision. This, ordinary, earthly, human frame, is
@@ -314,7 +313,7 @@ their non-subjective, non-human artificial intelligence.
 
 The post-digital age is characterized by the clear and present divide
 (and collaboration), rather than integration, between naked human and
-supported machine vision.[^21] New imaging techniques and technologies
+supported machine vision.[^intro_21] New imaging techniques and technologies
 only serve to strengthen this divide as well as the dualistic opposition
 between the subjective and objective. And, I suggest, this age is also
 characterized by a hierarchical dynamic between these natural and
@@ -330,17 +329,17 @@ Dieter, the integration of human and machine vision is ‘a cultural
 condition which enhancements algorithmic logic, and mediated
 perception’, emancipated machine vision in and of itself is
 characterized by a space without time following from the introduction of
-digital technologies.[^22] Joanna Zylinska, one of the premier theorists
+digital technologies.[^intro_22] Joanna Zylinska, one of the premier theorists
 on post-digital photography, describes the first effect as one in which
 human and nonhuman photography, in order to act together, enable
-different ‘modes of visuality and self-identification’.[^23] The second
+different ‘modes of visuality and self-identification’.[^intro_23] The second
 effect, however, is marked by the complete absence of humans and,
 consequentially, of humanity. Yet the first effect, which collapses the
 flow between natural and unnatural perception, is a prerequisite for the
 second, in which control over the medium of photography is handed over
 in its entirety to machines. Unmanned photography, or photography which
 is not conducted by humans, has thus slowly become fully nonhuman, a
-technology that works independently from its creators.[^24]
+technology that works independently from its creators.[^intro_24]
 
 Photography done by machine no longer needs a photographer. Now, machine
 vision leads human vision, as even digital cameras guide a photographer
@@ -357,7 +356,7 @@ not need a viewer either. Images are not made for humans but also for
 another machine that will process them. We have arrived in an era of
 automated photography in which images are being made by machines and for
 them too. Such images Paul Virilio refers to as ‘images without
-spectators’ or ‘images created by machine for machine’.[^25] Such a
+spectators’ or ‘images created by machine for machine’.[^intro_25] Such a
 photograph challenges contemporary visual culture because it is not
 meant neither for ordinary human affairs and sciences.
 
@@ -367,23 +366,23 @@ authors and audience, photographic image is no longer merely an
 aesthetic product, having a long-lasting purpose of musealization, but
 also a functional, and use- or purpose-oriented one. Images travel
 between one and other machine to produce a deep learning conclusion, or
-to select images. [^26] In order to explain the intentionality of the
+to select images. [^intro_26] In order to explain the intentionality of the
 machine image, Friedrich Kittler used concept of the ‘operational
 images,’ while Vilém Flusser referred to ‘technical images,’ which are
 themselves the end of linearity of history, existing on the basis of the
-text.[^27] Operational images or ‘image acts’ as Horst Bredekamp has
+text.[^intro_27] Operational images or ‘image acts’ as Horst Bredekamp has
 named them, are used in data collecting, analyzing, reconstructing and
-visualization.[^28] And it is not only photography, but also the other
+visualization.[^intro_28] And it is not only photography, but also the other
 means of visual representations that are failing to become fixed
 products but are rather becoming that what Marta Jecu names catalytic,
-or trajectory entities.[^29] Photography and photography-based
+or trajectory entities.[^intro_29] Photography and photography-based
 technologies have become expanded the function of the medium for storing
 visual memories, an immediate memorizing tool itself, or even a tool of
 a complex information storage. In addition, they have become an active
 agent which creates several types of visualities by rendering new from
 old visual information.
 
-Nonhuman Photography
+##Nonhuman Photography
 
 For not being objects of ordinary human affairs and sciences, but
 trajectory objects, nonhuman photography is often not taken seriously
@@ -393,11 +392,15 @@ understanding of the world. The reason for negligence of the role the
 post-digital photography has to our lives may also lie in the fact that
 it is not produced by humans and is thus disregarded as relevant in
 terms of its emancipated intentions, means and purposes. Thus, Zylinska
-asked for; ‘*Embracing nonhuman vision as both a concept and a mode of
-being in the world will allow humans to see beyond the humanist
-limitations of their current philosophies and worldviews, to unsee
-themselves in their godlike positioning of both everywhere and
-nowhere*’…[^30] Finally each of these technologies influences our
+asked for:
+
+>Embracing nonhuman vision as both a concept and a mode of
+>being in the world will allow humans to see beyond the humanist
+>limitations of their current philosophies and worldviews, to unsee
+>themselves in their godlike positioning of both everywhere and
+>nowhere.’[^intro_30]
+
+Finally each of these technologies influences our
 understanding of the world.
 
 The use of nonhuman photography changes significantly all of the visual
@@ -421,7 +424,7 @@ do not support a consistent and reliable system of guaranties for the
 validity of an image, such as scientific authority, political
 institution, the credibility of the publisher, or as authors of the
 second order that justify the image in a certain discourse, on which I
-was writing elsewhere.[^31] Scholars in disciplines such astronomy,
+was writing elsewhere.[^intro_31] Scholars in disciplines such astronomy,
 criminology, ethnology, history, and medicine consider the truthfulness
 of the photograph to be foundational in their research. But with
 nonhuman photograph, the causal relationship between the image and its
@@ -437,7 +440,7 @@ does our vision influence the way we know the world?
 ## Limits of Scientific Authority 
 
 Each prospective change of technology brings a subsequent change in the
-culture, writes Edward Shanken.[^32] With the miniaturization of the
+culture, writes Edward Shanken.[^intro_32] With the miniaturization of the
 camera and automation of its functions, the prosthetic which is
 photographic technology records beyond the capacity of human vision,
 while continuing to revolutionize our relationship to reality. Aerial,
@@ -450,7 +453,7 @@ externalization, nonhuman automatization, and prosthetic extension,
 which characterize photography in this post-digital era, also change our
 actual reality. Still, they are no longer photographic visions referring
 to the physical reality in the indexical sense once recognized by
-semiotics of photography.[^33] Rather, they become visualizations of
+semiotics of photography.[^intro_33] Rather, they become visualizations of
 some weak reality, reduced on a mere effect of realism of the
 photographic image.
 
@@ -460,7 +463,7 @@ its relationship to it remains epistemic (as it continues to bring
 actively produces reality as such. Thus, photographic reality can be
 taken as yet another one in the object-orientated-ontologies defined by
 Graham Harman, or as Manuel deLanda named it ‘flat ontology’, producing
-hyperobjects.[^34] According them the new reality of objects would be
+hyperobjects.[^intro_34] According them the new reality of objects would be
 real, independently our implementation of them, and they can actively
 produce it. Thus, any change in photographic medium or technology, will
 act on its production. But what happens when humans’ sense of reality is
@@ -490,9 +493,9 @@ changed.
 
 The idea that the planet we live on is flat is only one among many
 various beliefs from the Medieval Period which some individuals and
-communities have started to believe in again in the late 20^th^ and
-early 21^st^ centuries. James Bridle calls this era the ‘New Dark
-Age’.[^35] The such a Dark Age indeed becomes visible in the
+communities have started to believe in again in the late 20th and
+early 21st centuries. James Bridle calls this era the ‘New Dark
+Age’.[^intro_35] The such a Dark Age indeed becomes visible in the
 surveillance logic of big brother and the eye in the sky. But can also
 be seen in economic segregation as well as the large migration and
 movement of entire populations. To this list can also be added the
@@ -503,9 +506,9 @@ our health, or that vaccines cause autism, and on and on.
 
 All such tendencies lead to the rise of a ‘New Medieval Age’, as I
 termed this phenomenon in my previous book, *Culture of the
-Selfie*.[^36] As my book was published a year earlier than Bridle’s, now
+Selfie*.[^intro_36] As my book was published a year earlier than Bridle’s, now
 I will further distinguish my earlier concept of ‘New Medievalism” from
-Bridle’s latter concept ‘New Dark Age’.[^37] There are several avenues
+Bridle’s latter concept ‘New Dark Age’.[^intro_37] There are several avenues
 of inquiry from which to approach how a conception of the world from the
 Medieval Period has returned, including educational, medial,
 philosophic, religious, and technological, to name but a few. It is
@@ -532,7 +535,7 @@ elements embedded in it, which is the approach taken in this book.
 Through the fields of art history, media theory, photographic theory,
 and visual studies, I will begin my analysis in Chapter 1 by addressing
 some of the reasons how and why flat Earth theories have reemerged in
-the 20^th^ and 21^st^ centuries. In Chapter 2, I will elaborate on the
+the 20th and 21st centuries. In Chapter 2, I will elaborate on the
 historical development of aerial photography, and in Chapter 3, imaging
 of the planet from space. For this discussion, I will draw upon a
 diverse range of images and media, encompassing aerial photography from
@@ -552,7 +555,7 @@ and of perspectival systems in the aerial view from the Medieval Period
 to the post-digital age, along the theme of control by viewing from
 above.
 
-Since its invention in the early 19^th^ century, the photographic medium
+Since its invention in the early 19th century, the photographic medium
 has for the most part been characterized by its indexical or factual
 relationship to reality. And today, photographs may be constructed out
 of many different kinds of materials. Overall, my analysis will
@@ -579,9 +582,9 @@ artefact made out of photographic material which is not necessarily
 related to the same reality, or if it relates – the representation
 significantly oscillates from it because of interventions on the image.
 The most common example of pseudo-photography is today a product of
-neural software, creating images from other images.[^38] Each section of
+neural software, creating images from other images.[^intro_38] Each section of
 the process of recording can be modified by computer calculus by
-specifically programmed computers as Halide.[^39] Such software can
+specifically programmed computers as Halide.[^intro_39] Such software can
 change the appearance of the photo, as for example coloring the black
 and white pixels, enhancing the mobile phone image into a quality of a
 professional shooting. Still, the empowering is commonly not done in
@@ -601,42 +604,16 @@ photomaps, I will use the definition of orthophoto maps differently from
 that of photomap, although some authors warn orthophoto was yet another
 stage of developing of photomaps (the other two stages being
 planimetric, preceding photomaps, and satellite view, succeeding
-it).[^40] These objects, named MLO (*map-like objects*) Dahlberg defines
+it).[^intro_40] These objects, named MLO (*map-like objects*) Dahlberg defines
 as ‘mosaicked image tied to a coordinate base’, and I will be
 investigating rather as photo-alike objects, as they actually employ and
 engage photographic realism as a bare effect in suggesting a certain
-conceptualization of reality.[^41] In order to maintain clearance I will
+conceptualization of reality.[^intro_41] In order to maintain clearance I will
 use, at many places, charts and tables.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------
-  Photographic constructs   -   On photographic base                                                              
-                                                                                                                  
-  ------------------------- ------------------------------------------------------------------------------------- ------------------------------------
-                            a.  Sidelaped (tiled constructions, planimetric, peripheral or rollout photography)   Photomontages
-                                                                                                                  
+![](imgs/tbl01.png)
 
-                                                                                                                  Panorama and 360
-
-                                                                                                                  Photogrammetry
-
-                            a.  Overlapped                                                                        Deep photos
-                                                                                                                  
-
-                                                                                                                  GAN photographs (pseudophotograph)
-
-                            -   On nonphotographic base                                                           
-                                                                                                                  
-
-                                                                                                                  Orthophoto
-
-                                                                                                                  Photomaps
-
-                                                                                                                  Photographic maps
-
-                                                                                                                  Hypermaps
-  ----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[]{#_Toc32170946 .anchor}Table 1: Nomenclature and branching of total
+Table 1: Nomenclature and branching of total
 images.
 
 In order to compare and contrast the many differences between various
@@ -664,7 +641,7 @@ what degree this visual episteme provides sufficient grounds for
 different belief systems. The two already mentioned questions,
 ontological and epistemic, oriented the other way around and having a
 strong political resonance appear as assumptions in Frederic Jameson’s
-theory of cognitive mapping.[^42] According his hypothesis, the
+theory of cognitive mapping.[^intro_42] According his hypothesis, the
 inability to map and have a total picture is a reason for the social
 disintegration, whereas the cognitive mapping in a total image results
 in identification with ideology. Although I will not deal with political
@@ -687,107 +664,106 @@ have views of the world been imagined and constructed at different times
 across history? And how have these views changed our knowledge about the
 Earth and how do they now?
 
-[^1]: Paul Virilio, *The Lost Dimension*, trans. Daniel Moshenberg, New
+[^intro_1]: Paul Virilio, *The Lost Dimension*, trans. Daniel Moshenberg, New
     York: Semiotext(e), 1991.
 
-[^2]: *Gravity*, directed by Alfonso Cuarón, starring Sandra Bullock and
+[^intro_2]: *Gravity*, directed by Alfonso Cuarón, starring Sandra Bullock and
     George Clooney, 2013.
 
-[^3]: *The Great Dictator*, directed by Charlie Chaplin, starring
+[^intro_3]: *The Great Dictator*, directed by Charlie Chaplin, starring
     Charlie Chaplin, Paulette Goddard, and Jack Oakie, 1940.
 
-[^4]: Carl Sagan similarly writes that ‘telescopes are time machines’.
+[^intro_4]: Carl Sagan similarly writes that ‘telescopes are time machines’.
     Carl Sagan, *Pale Blue Dot: A Vision of The Human Future in Space*,
     New York: Ballantine Books, 1997, 47.
 
-[^5]: Charles and Ray Eames, *Powers of Ten and the Relative Size of
+[^intro_5]: Charles and Ray Eames, *Powers of Ten and the Relative Size of
     Things in the Universe*, 1977, available at:
     https://www.eamesoffice.com/the-work/powers-of-ten/.
 
-[^6]: ‘Event Horizon Telescope’, https://eventhorizontelescope.org/.
+[^intro_6]: ‘Event Horizon Telescope’, https://eventhorizontelescope.org/.
 
-[^7]: Ker Than, ‘First Picture of an Atom’s Shadow: Smallest Ever
+[^intro_7]: Ker Than, ‘First Picture of an Atom’s Shadow: Smallest Ever
     Photographed: Technique Might Help Turn Atoms into Vehicles for
     Secret Messages’, *National Geographic News*, 13 July 2012,
     https://www.nationalgeographic.com/news/2012/7/120710-first-picture-atom-shadow-photograph-science-nature-smallest/.
 
-[^8]: See: Eric Kandel, *Reductionism in Art and Brain Science: Bridging
+[^intro_8]: See: Eric Kandel, *Reductionism in Art and Brain Science: Bridging
     the Two Cultures*, New York: Columbia University Press, 2018.
 
-[^9]: For more on theories of objectivity, see my book: *Fotografija kao
+[^intro_9]: For more on theories of objectivity, see my book: *Fotografija kao
     Dokaz*, Zagreb: Multimedijalni Institut, 2018.
 
-[^10]: Writing: ‘Google's achievement in building the 'total image' of
+[^intro_10]: Writing: ‘Google's achievement in building the 'total image' of
     our world has gone much further than being an interactive mapping
     tool.’ Ingrid Hoelzl and Remi Marie, *Soft Image: Towards a New
     Theory of the Digital Image*, Chicago: Intellect, Chicago University
     Press, 2015, 24.
 
-[^11]: By such an expansion, I will refer also to reverberating the
+[^intro_11]: By such an expansion, I will refer also to reverberating the
     political idea and practice of totalitarianism, relying on Jean Luc
     Nancy’s definition of the total human as free from alienation,
     emancipated from natural, economic, and ideological subjection. Jean
     Luc Nancy, *After Fukushima: The Equivalence of Catastrophes*, New
     York: Fordham University Press, 2014.
 
-[^12]: Christine Buci-Glucksmann, ‘Icarus Today: The Ephemeral Eye’,
+[^intro_12]: Christine Buci-Glucksmann, ‘Icarus Today: The Ephemeral Eye’,
     *Public* 18 (1999): 53–77.
 
-[^13]: Describing the Icarian as ‘aeriality that re-examines and accepts
+[^intro_13]: Describing the Icarian as ‘aeriality that re-examines and accepts
     a world without height or base, a world cosmically liberated from
     weight to become the object of artistic experimentation and
     conceptualization’, Buci-Glucksmann asks ‘have we not all become
     Icarian in the enchanted world of virtual map-worlds from which we
     cannot fall?’ Buci-Glucksmann, ‘Icarus Today’, 58.
 
-[^14]: Ola Söderström, ‘Paper Cities: Visual Thinking in Urban
+[^intro_14]: Ola Söderström, ‘Paper Cities: Visual Thinking in Urban
     Planning’, *Ecumene* 3.3 (1996): 249–281.
 
-[^15]: Denis Cosgrove, *Apollo’s Eye: A Cartographic Genealogy of the
+[^intro_15]: Denis Cosgrove, *Apollo’s Eye: A Cartographic Genealogy of the
     Earth in the Western Imagination*, Baltimore, MD: John Hopkins
     University Press, 2001.
 
-[^16]: Claire Reddleman, *Cartographic Abstractions in Contemporary
+[^intro_16]: Claire Reddleman, *Cartographic Abstractions in Contemporary
     Art*: *Seeing with Maps*, London: Routledge, 2018, 11.
 
-[^17]: Alberto Toscano and Jeff Kinkle, *Cartographies of the Absolute*,
+[^intro_17]: Alberto Toscano and Jeff Kinkle, *Cartographies of the Absolute*,
     John Hunt Publishing, 2015.
 
-[^18]: Hannah Arendt, *The Human Condition*, Chicago, University of
+[^intro_18]: Hannah Arendt, *The Human Condition*, Chicago, University of
     Chicago Press, 1998 (1958); Zylinska. *Nonhuman Photography*.
 
-[^19]: Arendt, *Human Condition*, 10. Notably this discussion was so
+[^intro_19]: Arendt, *Human Condition*, 10. Notably this discussion was so
     intriguing and influential that an asteroid was named after Arendt
     in 1990.
 
-[^20]: Arendt, *Human Condition.*
+[^intro_20]: Arendt, *Human Condition.*
 
-[^21]: See: Peter McLaren and Petar Jandrić, *Postdigital Dialogues on
+[^intro_21]: See: Peter McLaren and Petar Jandrić, *Postdigital Dialogues on
     Critical Pedagogy, Liberation Theology and Information Technology*,
     London: Bloomsbury, 2020.
 
-[^22]: David Berry and Michael Dieter, *Postdigital Aesthetics: Art,
+[^intro_22]: David Berry and Michael Dieter, *Postdigital Aesthetics: Art,
     Computation and Design*, London: Palgrave Macmillan, 2015.
 
-[^23]: Joanna Zylinska, *Nonhuman Photography*, Cambridge, MA: MIT
+[^intro_23]: Joanna Zylinska, *Nonhuman Photography*, Cambridge, MA: MIT
     Press, 2017, 5.
 
-[^24]: Zylinska, *Nonhuman Photography.*
+[^intro_24]: Zylinska, *Nonhuman Photography.*
 
-[^25]: Paul Virilio, *The* *Vision Machine,* Bloomington and
+[^intro_25]: Paul Virilio, *The* *Vision Machine,* Bloomington and
     Indianapolis: Indiana University Press, 1994.
 
-[^26]: Such as GANs, Generative Adversarial Network-programs.
+[^intro_26]: Such as GANs, Generative Adversarial Network-programs.
 
-[^27]: []{#__RefHeading___Toc77758_3983396227 .anchor} Friedrich
-    Kittler, *Optical Media: Berlin Lectures 2009,* Cambridge: Polity
+[^intro_27]: Friedrich Kittler, *Optical Media: Berlin Lectures 2009,* Cambridge: Polity
     Press, 2012; Vilém Flusser, *Into the Universe of Technical Images*.
     University of Minnesota Press, 2011.
 
-[^28]: Horst Bredekamp, *Image Acts: A Systematic Approach to Visual
+[^intro_28]: Horst Bredekamp, *Image Acts: A Systematic Approach to Visual
     Agency*, trans. Elizabeth Cregg, Berlin: De Gruyter, 2017.
 
-[^29]: Marta Jecu defines postdigital architecture through a concept of
+[^intro_29]: Marta Jecu defines postdigital architecture through a concept of
     catalytic space, having a mere purpose-function, staying unconsumed
     in the process, contrary to lived space that is altered by social
     processes, revoking thus again the difference of space and place and
@@ -798,52 +774,50 @@ Earth and how do they now?
     Virtua*l, Bristol and Chicago: University of Chicago Press, 2016,
     13.
 
-[^30]: Zylinska, *Nonhuman Photography*, 15, original Italics.
+[^intro_30]: Zylinska, *Nonhuman Photography*, 15, original Italics.
 
-[^31]: Peraica, *Fotografija kao dokaz*.
+[^intro_31]: Peraica, *Fotografija kao dokaz*.
 
-[^32]: Edward Shanken, ‘Virtual Perspective and the Artistic Vision: A
+[^intro_32]: Edward Shanken, ‘Virtual Perspective and the Artistic Vision: A
     Genealogy of Technology, Perception and Power’, in M. Roetto (ed)
     *Seventh International Symposium on Electronic Art (ISEA)
     Proceedings*, Rotterdam: ISEA96 Foundation, 1996.
 
-[^33]: See, for example: Clive Scott, *The Spoken Image: Photography and
+[^intro_33]: See, for example: Clive Scott, *The Spoken Image: Photography and
     Language*, London: Reaktion Book, 1999.
 
-[^34]: Graham Harman, *The Quadruple Object*, Winchester and Washington:
-    Zero Books, 2011.
-
-    Manuel deLanda, *Intensive Science and Virtual Philosophy,* London:
+[^intro_34]: Graham Harman, *The Quadruple Object*, Winchester and Washington:
+    Zero Books, 2011; Manuel deLanda, *Intensive Science and Virtual Philosophy,* London:
     Bloomsbury Academic, 2013.
 
-[^35]: James Bridle, *New Dark Age: Technology and the End of the
+[^intro_35]: James Bridle, *New Dark Age: Technology and the End of the
     Future*, London and Brooklyn: Verso, 2018.
 
-[^36]: See my: *Culture of the Selfie*, Institute of Network Cultures,
+[^intro_36]: See my: *Culture of the Selfie*, Institute of Network Cultures,
     Amsterdam, 2017.
 
-[^37]: New Medievalism is defined on the basis the theme of
+[^intro_37]: New Medievalism is defined on the basis the theme of
     *acheiropoieton*, a God-made image in selfies, as well as the
     dismissal of perspectival knowledge as a visual and demonstrative
     way of measuring the space around us in technologies of selfies.
 
-[^38]: Neural network creates photorealistic images people are not real;
+[^intro_38]: Neural network creates photorealistic images people are not real;
     DIY Photography
     https://www.diyphotography.net/neural-network-creates-photo-realistic-images-people-arent-real/.
 
-[^39]: Computational photography already has made an impact on
+[^intro_39]: Computational photography already has made an impact on
     commercial photography, as for example in services as Meero, that
     function as platform photographing. In Meero, photographers are
     serving as input to machines, providing an amount of RAW images of a
     certain kind which are latter processed by AI. See:
     https://www.meero.com/en/technology.
 
-[^40]: R.E. Dahlberg, ‘The Design of Photo and Image Maps’, *The
+[^intro_40]: R.E. Dahlberg, ‘The Design of Photo and Image Maps’, *The
     Cartographic Journal* 30 (1993): 112-118. 
 
-[^41]: Dahlberg, ‘The Design of Photo and Image Maps’.
+[^intro_41]: Dahlberg, ‘The Design of Photo and Image Maps’.
 
-[^42]: The concept of cognitive mapping was first used by Edward Toi,
+[^intro_42]: The concept of cognitive mapping was first used by Edward Toi,
     back in 1948, to be redefined as cognitive by Jameson and mental by
     Lynch. Kevin A. Lynch: *Image of the City*, Cambridge, MA: MIT
     Press, 1960. Jameson also refers to writings of Lynch, see Fredric
