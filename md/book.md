@@ -38,7 +38,36 @@ or freely downloaded from http://www.networkcultures.org/publications.
 
 
 
+# Table of Contents
 
+<a href="ch004.xhtml">Preface</a>
+
+<a href="ch005.xhtml">Introduction</a>
+
+<a href="ch006.xhtml">1\. Flat Earth </a>
+
+<a href="ch007.xhtml">
+Corrolary: Physical Globes and Digital Projections </a>
+
+<a href="ch008.xhtml">2\. View from Above</a>
+
+<a href="ch009.xhtml">3\. Image of the Globe</a>
+
+<a href="ch010.xhtml">4\. Landscapes and Maps</a>
+
+<a href="ch011.xhtml">5\. Datafied Landscapes and Located Maps </a>
+
+<a href="ch012.xhtml">6\. Computing Photographs and Maps</a>
+
+<a href="ch013.xhtml">7\. Perspectival Losses</a>
+
+<a href="ch014.xhtml">8\. Polyopticon</a>
+
+<a href="ch015.xhtml">Conlusion: So, the World Is Flat...?</a>
+
+<a href="ch016.xhtml">Bibliography</a>
+
+<a href="ch017.xhtml">List of Images</a>
 
 
 
@@ -928,6 +957,10 @@ Earth and how do they now?
 
 # Chapter 1: Flat Earth 
 
+![](imgs/img03.jpg)
+
+Figure 3: Flat Earth internet meme.
+
 ## New Flat Earthers 
 
 At the time of this writing, people all over the world have celebrated the 50th
@@ -953,12 +986,6 @@ number does not appear to be decreasing. In the 21st century, the
 theory that the Earth is flat has become the source of humorous Internet
 memes. However, advocating this ‘flat Earth’ theory is far from
 harmless.
-
-
-![](imgs/img03.jpg)
-
-Figure 3: Flat Earth internet meme.
-
 
 ![](imgs/img04.jpg)
 
@@ -994,6 +1021,10 @@ flat plane than a round sphere and, further, that this process of
 mediation eradicates the perspectival views of the human subject from
 photography.
 
+![](imgs/img05.jpg)
+
+Figure 5: Flat Earth internet meme.
+
 Throughout this book, in order to distinguish between the one and only
 planet Earth and its many possible representations, I will use the
 capitalized proper noun ‘Earth’ when referring to the planet and the
@@ -1007,19 +1038,11 @@ the Earth condition our representations for an earth and, vice versa,
 how do these representations for an earth influence our knowledge of the
 Earth?
 
-![](imgs/img05.jpg)
-
-Figure 5: Flat Earth internet meme.
-
 ![](imgs/img06.jpg)
 
 Figure 6: Flat Earth internet meme.
 
 ##Down-Dimensioning 
-
-![](imgs/img07.jpg)
-
-Figure 7: The Cover of *Flatland* by William Abbott Abbott, 1884.
 
 In order to understand the division between the reality of the planet
 Earth which we inhabit and the ways in which one may perceive and
@@ -1066,6 +1089,10 @@ dare to imagine that there is more to their world than meets the eye.
 Abbott narrativizes this event through the character of the Cycle, who
 rules Flatland, and prophecies the arrival of a new group of invaders,
 giving the narrative both political and teleological significance.[^ch01_6]
+
+![](imgs/img07.jpg)
+
+Figure 7: The Cover of *Flatland* by William Abbott Abbott, 1884.
 
 Besides questions about how the world appears to Flat earthers, Flatland
 tale also raises another question: how does the same world appear to
@@ -1970,6 +1997,11 @@ genre of aerial photography, when it fully emerged in the 19th
 century, had to address both of these visual phenomena and their
 respective image distortions.[^ch02_15]
 
+![](imgs/img12.jpg)
+
+Figure 12: James
+Wallace Black, *View of Boston*, 1860.
+
 The first aerial record to be made during a flight was taken only in
 1857, some twenty years after the invention of photography.
 Gaspard-Félix Tournachon, known by the mononymous pseudonym Nadar, took
@@ -2002,20 +2034,10 @@ photograph were overexposed and other parts were underlit. Nevertheless,
 the end result was far more chemically stable than with the first aerial
 photograph taken by Nadar.
 
-![](imgs/img12.jpg)
-
-Figure 12: James
-Wallace Black, *View of Boston*, 1860.
-
 ![](imgs/img13.jpg)
 
 Figure 13:
 Gaspard-Félix Tournachon Nadar, *Aerial view of Paris*, 1868.
-
-![](imgs/tbl02.png)
-
-Table 2: Changes to image elements caused by
-shifting the point of view from land to air.
 
 In aerial photography, depth is fixed on the object. The horizon is that
 of a high oblique taken with the camera inclined about sixty degrees
@@ -2096,6 +2118,11 @@ Apart from such visual phenomena, as Jussi Parikka also observers, when
 aerial photography is applied in concert with aerial bombardment, the
 landscape is not only literally flattened, but also represented as being
 flat.[^ch02_28]
+
+![](imgs/tbl02.png)
+
+Table 2: Changes to image elements caused by
+shifting the point of view from land to air.
 
 ## Expanding the Game? 
 
@@ -2726,6 +2753,11 @@ with a flat surface and as immediately present.[^ch02_72]
 
 # Chapter 3: Image of the Globe 
 
+![](imgs/img16.jpeg)
+
+Figure 16: Capt. Albert Stevens’ record from
+South Dakota, 1935.
+
 ## Widening the View 
 
 Historically, aerial photographs were the first media in which the total
@@ -2765,15 +2797,6 @@ new images of the Earth, such as with the project *Blue Marble: The Next
 Generation* (2012), which has made available the observation of change
 in the planet since this recording was initiated.
 
-![](imgs/img16.jpeg)
-
-Figure 16: Capt. Albert Stevens’ record from
-South Dakota, 1935.
-
-![](imgs/img17.jpg)
-
-Figure 17: Capt. William Anders, *Earthrise*, 1968.
-
 ![](imgs/img18.jpg)
 
 Figure 18: Eugene Cernan, Ronald Evans and Harrison Schmitt, *Blue Marble*, 1972.
@@ -2794,6 +2817,10 @@ and networking, as well as a symbol of economic and financial systems,
 such as the World Bank, but also the World Wide Web and Internet. For
 this reason, Benjamin Lazier, call our present time the ‘Earthrise
 era’.[^ch03_4]
+
+![](imgs/img17.jpg)
+
+Figure 17: Capt. William Anders, *Earthrise*, 1968.
 
 Looking back on the evolution of spaceflight since the 20th century
 and of space photography since the 1960s, it is incredible what a
@@ -3702,7 +3729,7 @@ aggregated together.
 [^ch04_33]: Christine.Buci-Glucksmann, *L'oeil cartographique de l'art,*
     Paris: Gallilee, 1996.
 
-[^ch04_34]: []{#__RefHeading___Toc77618_3983396227 .anchor} Vilém Flusser,
+[^ch04_34]: Vilém Flusser,
     ‘Das Verschwinden der Ferne’, *Arch plus* 111 (1992): 31–32.
 
 [^ch04_35]: In other words, place belongs to the domain of epistemology, of
@@ -3990,6 +4017,10 @@ genre of the map is not only because Google Maps and other mapping
 systems turn our spaces of imagination into a concrete, unique, and
 physically precise place.
 
+![](imgs/img21.png)
+
+Figure 21: GPS information in photography (screenshot).
+
 As a consequence of the Geographic Information System, at least
 according to Alberto Toscano and Jeff Kinkle, local placement has become
 privileged over general picture in the post-digital era.[^ch05_23] When using
@@ -4016,14 +4047,6 @@ satellite system (GNSS), global positioning system (GPS), and geographic
 information systems (GIS) which together provide geolocation and time
 information to a receiver anywhere on or near the Earth.
 
-![](imgs/img21.png)
-
-Figure 21: GPS information in photography (screenshot).
-
-![](imgs/img22.png)
-
-Figure 22: Hyperimage with place tags (screenshot).
-
 ## Tagging Landscapes
 
 With each new technological means for geographic abstraction, the ways
@@ -4037,6 +4060,10 @@ capture, store, manipulate, analyze, manage, and present spatial and
 geographic data, also allow users to create interactive queries to
 analyze spatial information, edit data in maps, and present the results
 of these operations, adding non-geographical data to place.[^ch05_25]
+
+![](imgs/img22.png)
+
+Figure 22: Hyperimage with place tags (screenshot).
 
 Since of now, turning them into complex image-text collages. Name-tags
 are attached to photographs, making them complex collages. Such place
@@ -4474,6 +4501,10 @@ seeing the true city-the city indoors.’[^ch06_10] He also noted:
 > tirelessly, through technical devices, to make panoramas the scenes of
 > a perfect imitation of nature.[^ch06_11]
 
+![](imgs/img23.jpg)
+
+Figure 23: *Turgot map of Paris*.
+
 At this historical moment, the emancipated masses of emerging societies
 had started to appropriate and recycle image genres that had long been
 reserved for the upper classes, producing from them a new kind of
@@ -4567,6 +4598,10 @@ from an altitude or distance from the surface of the Earth of 45,000
 km.[^ch06_18] As such, it was not possible to record an orthophoto until the
 innovation of flying machines in the early 20th century.
 
+![](imgs/img25.jpg)
+
+Figure 24: Geodaten Bayern, *Orthophoto of Augsburg*, 2012.
+
 In contrast to panoramic photographs, which are recorded as a series of
 horizontal images, orthophotos are correcting photograph via
 orthographic projection, where all of the projection lines are
@@ -4650,6 +4685,10 @@ of space or layers of information, which may connect to place-tags or
 other geo-information, a large amount of data which enhances the user’s
 search return through a ‘hypergeo model’.
 
+![](imgs/img24.png)
+
+Figure 25: Mount Kilimanjaro Summit photomap.
+
 Hypermaps are a hybrid between photograph and map which gain layers of
 information because of how they fuse these several kinds of mediation
 together. But hypermaps also loose information from these various media
@@ -4675,18 +4714,6 @@ Moreover, the hypermap describes everything but the subject, either by
 re-distributing the subject through the act of use, or by describing
 only the world around the subject, as if the total image is a donut and
 the subject is its absent hole.
-
-![](imgs/img23.jpg)
-
-Figure 23: *Turgot map of Paris*.
-
-![](imgs/img24.png)
-
-Figure 24: Mount Kilimanjaro Summit photomap.
-
-![](imgs/img25.jpg)
-
-Figure 25: Geodaten Bayern, *Orthophoto of Augsburg*, 2012.
 
 ## ‘Deep Photo’
 
@@ -5612,7 +5639,6 @@ explanations, as theories of flat earth.[^ch07_42]
     refers to assemblage function of the trace in writings by Vilėm
     Flusser. Laura Kurgan, *Close Up at a Distance: Mapping, Technology,
     and Politics*, MIT Press, 2013.
-
 
 # Chapter 8: Polyopticon 
 
@@ -7015,4 +7041,62 @@ Sternberg, Donna and EZTV. ‘Fly-BY’, 2014
 *The Rise of Drones: Privacy, Power and Storytelling* (2015).
 
 *Unmanned: America’s Drone Wars* (dir. Robert Greenwald, 2013).
+
+
+#List of Illustrations
+
+Figure 1: *Astronaut in Space*. Royalty free, Creative Commons Zero, CC0, Pxsfuel.
+
+Figure 2: Still from Charlie Chaplin, *The Great Dictator*, 1940. Work in the public domain.
+
+Figure 3: Flat Earth internet meme
+
+Figure 4: Flat Earth internet meme
+
+Figure 5: Flat Earth internet meme
+
+Figure 6: Flat Earth internet meme
+
+Figure 7: Cover of *Flatland* by William Abbott Abbott, 1884.
+
+Figure 8: Flat Earth map drawn by Orlando Ferguson in 1893. Work in the public domain.
+
+Figure 9: Azimuthal equidistant projection. CC-BY-SA-3.0-license.
+
+Figure 10: Donnus Nicholas Germanus, cartographer Johannes Schnitzer or Johannes de Armssheim, engraver Ptolemy Jacobus Angelus, *The World*. Work in the public domain.
+
+Figure 11: Martin Behaim, *Globe*. Nouveau Larousse illustré. Work in the public domain.
+
+Figure 12: James Wallace Black, *View of Boston*, 1860. Work in the public domain.
+
+Figure 13: Gaspard-Félix Tournachon Nadar, *Aerial view of Paris*, 1868. Work in the public domain.
+
+Figure 14: Edward Steichen, *Aerial view of ruins of Vaux, France*, 1918. Work in the public domain.
+
+Figure 15: Cockpit view. CC0-license.
+
+Figure 16: Capt. Albert Stevens, *Record from South Dakota*, 1935. Work in the public domain.
+
+Figure 17: Capt. William Anders, *Earthrise*, 1968. NASA, work in public domain.
+
+Figure 18: Eugene Cernan, Ronald Evans and Harrison Schmitt, *Blue Marble*, 1972. NASA, work in the public domain.
+
+Figure 19: One of globalization images. CC0-license.
+
+Figure 20: Monk of Colmar, *Peutinger’s map*, 1265. Work in the public domain.
+
+Figure 21: GPS information in photography. Screenshot.
+
+Figure 22: Hyperimage with place tags. Screenshot.
+
+Figure 23: Turgot map of Paris. Work in the public domain.
+
+Figure 24: Geodaten Bayern, *Orthophoto of Augsburg*, 2012. Work in the public domain.
+
+Figure 25: Mount Kilimanjaro Summit photomap. Work in the public domain.
+
+Figure 26: Clement Valla, *Postcard from Google Earth - 40°50'41.94"N,73°54'42.33"W*. Courtesy of the artist.
+
+Figure 27: *We have never been to Moon*, street poster and Internet meme.
+
 
