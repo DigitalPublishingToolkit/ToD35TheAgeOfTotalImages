@@ -7,7 +7,7 @@
 
 # Colophon
 
-Theory on Demand #35
+Theory on Demand #34
 <br/>**The Age of Total Images: Disappearance of a Subjective Viewpoint in Post-digital Photography**
 
 Author: Ana Peraica
@@ -17,7 +17,7 @@ Author: Ana Peraica
 <br/>Cover design: Katja van Stiphout
 <br/>
 <br/>Published by the Institute of Network Cultures, Amsterdam, 2019
-<br/>ISBN
+<br/>ISBN 978-94-92302-53-3
 
 **Contact**
 <br/>Institute of Network Cultures
@@ -63,7 +63,7 @@ Corrolary: Physical Globes and Digital Projections </a>
 
 <a href="ch014.xhtml">8\. Polyopticon</a>
 
-<a href="ch015.xhtml">Conlusion: So, the World Is Flat...?</a>
+<a href="ch015.xhtml">Conclusion: So, the World Is Flat...?</a>
 
 <a href="ch016.xhtml">Bibliography</a>
 

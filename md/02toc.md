@@ -38,7 +38,7 @@ Corrolary: Physical Globes and Digital Projections </a>
 
 <a href="ch014.xhtml">8\. Polyopticon</a>
 
-<a href="ch015.xhtml">Conlusion: So, the World Is Flat...?</a>
+<a href="ch015.xhtml">Conclusion: So, the World Is Flat...?</a>
 
 <a href="ch016.xhtml">Bibliography</a>
 
